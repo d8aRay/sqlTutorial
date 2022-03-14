@@ -1487,3 +1487,195 @@ INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_8
 INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_34','2019-05-24');
 INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_96','2021-12-11');
 INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_38','2019-10-12');
+
+CREATE TABLE `sql_tutorial.calendar` (
+	date DATE
+    , week_start DATE
+    , day_of_week INTEGER
+    , week_end DATE  
+    , next_week_start DATE
+    , month_start DATE
+    , day_of_month INTEGER
+    , month_end DATE
+    , next_month_start DATE 
+    , month_yymm STRING(5)
+    , quarter STRING(10)
+    , month INTEGER
+    , year INTEGER 
+);
+INSERT `sql_tutorial.calendar`(date, week_start, day_of_week, week_end, next_week_start, month_start, day_of_month, month_end, next_month_start, month_yymm, quarter,month, year)
+WITH
+
+date_spine AS (
+  
+
+
+
+
+
+with rawdata as (
+
+    
+
+    
+
+    with p as (
+        select 0 as generated_number union all select 1
+    ), unioned as (
+
+    select
+
+    
+    p0.generated_number * power(2, 0)
+     + 
+    
+    p1.generated_number * power(2, 1)
+     + 
+    
+    p2.generated_number * power(2, 2)
+     + 
+    
+    p3.generated_number * power(2, 3)
+     + 
+    
+    p4.generated_number * power(2, 4)
+     + 
+    
+    p5.generated_number * power(2, 5)
+     + 
+    
+    p6.generated_number * power(2, 6)
+     + 
+    
+    p7.generated_number * power(2, 7)
+     + 
+    
+    p8.generated_number * power(2, 8)
+     + 
+    
+    p9.generated_number * power(2, 9)
+     + 
+    
+    p10.generated_number * power(2, 10)
+     + 
+    
+    p11.generated_number * power(2, 11)
+     + 
+    
+    p12.generated_number * power(2, 12)
+     + 
+    
+    p13.generated_number * power(2, 13)
+    
+    
+    + 1
+    as generated_number
+
+    from
+
+    
+    p as p0
+     cross join 
+    
+    p as p1
+     cross join 
+    
+    p as p2
+     cross join 
+    
+    p as p3
+     cross join 
+    
+    p as p4
+     cross join 
+    
+    p as p5
+     cross join 
+    
+    p as p6
+     cross join 
+    
+    p as p7
+     cross join 
+    
+    p as p8
+     cross join 
+    
+    p as p9
+     cross join 
+    
+    p as p10
+     cross join 
+    
+    p as p11
+     cross join 
+    
+    p as p12
+     cross join 
+    
+    p as p13
+    
+    
+
+    )
+
+    select *
+    from unioned
+    where generated_number <= 10299
+    order by generated_number
+
+
+
+),
+
+all_periods as (
+
+    select (
+        
+
+        datetime_add(
+            cast( DATETIME(PARSE_DATE('%d/%m/%Y','01/01/2014')) as datetime),
+        interval row_number() over (order by 1) - 1 day
+        )
+
+
+    ) as date_day
+    from rawdata
+
+),
+
+filtered as (
+
+    select *
+    from all_periods
+    where date_day <= DATETIME(DATE_ADD(CURRENT_DATE, INTERVAL 20 year))
+
+)
+
+select * from filtered
+
+
+)
+
+SELECT
+    DATE(date_day) AS date
+  , DATE_TRUNC(DATE(date_day), WEEK(MONDAY)) AS week_start
+    -- shift from Sunday start to Monday start
+  , CASE EXTRACT(DAYOFWEEK FROM date_day)
+      WHEN 1
+        THEN 7
+      ELSE EXTRACT(DAYOFWEEK FROM date_day) - 1
+      END
+    AS day_of_week
+  , DATE_ADD(DATE_TRUNC(DATE(date_day), WEEK(MONDAY)), INTERVAL 6 day) AS week_end
+  , DATE_ADD(DATE_TRUNC(DATE(date_day), WEEK(MONDAY)), INTERVAL 7 day) AS next_week_start
+  , DATE_TRUNC(DATE(date_day), MONTH) AS month_start
+  , EXTRACT(DAY FROM date_day) AS day_of_month
+  , DATE_SUB(DATE_TRUNC(DATE_ADD(DATE(date_day), INTERVAL 1 MONTH), MONTH), INTERVAL 1 DAY) AS month_end
+  , DATE_TRUNC(DATE_ADD(DATE(date_day), INTERVAL 1 MONTH), MONTH) AS next_month_start
+  , FORMAT_DATE("%y/%m", DATE(date_day)) AS month_yymm
+  , EXTRACT(year from DATE(date_day)) || " - Q" || EXTRACT(quarter from DATE(date_day)) as quarter
+  , EXTRACT(month from DATE(date_day)) as month
+  , EXTRACT(year from DATE(date_day)) as year
+FROM date_spine
+
