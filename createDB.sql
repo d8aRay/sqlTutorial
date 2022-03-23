@@ -124,7 +124,7 @@ CREATE TABLE `sql_tutorial.employees` (
 );
 
 INSERT INTO `sql_tutorial.employees`(employee_id,first_name,last_name,email,phone_number,hire_date,job_id,salary,manager_id,department_id) VALUES 
- (100,'Steven','King','steven.king@sqltutorial.org','515.123.4567','1987-06-17',4,240000.00,NULL,9);
+ (100,'Steven','King','steven.king@sqltutorial.org','515.123.4567','1987-06-17',4,240000.00,NULL,9)
 ,(101,'Neena','Kochhar','neena.kochhar@sqltutorial.org','515.123.4568','1989-09-21',5,170000.00,100,9)
 ,(102,'Lex','De Haan','lex.de haan@sqltutorial.org','515.123.4569','1993-01-13',5,170000.00,100,9)
 ,(103,'Alexander','Hunold','alexander.hunold@sqltutorial.org','590.423.4567','1990-01-03',9,90000.00,102,6)
@@ -174,37 +174,39 @@ CREATE TABLE `sql_tutorial.dependents` (
 	employee_id INTEGER NOT NULL,
 );
 
+INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES 
+  (1,'Penelope','Gietz','Child',206)
+, (2,'Nick','Higgins','Child',205)
+, (3,'Ed','Whalen','Child',200)
+, (4,'Jennifer','King','Child',100)
+, (5,'Johnny','Kochhar','Child',101)
+, (6,'Bette','De Haan','Child',102)
+, (7,'Grace','Faviet','Child',109)
+, (8,'Matthew','Chen','Child',110)
+, (9,'Joe','Sciarra','Child',111)
+, (10,'Christian','Urman','Child',112)
+, (11,'Zero','Popp','Child',113)
+, (12,'Karl','Greenberg','Child',108)
+, (13,'Uma','Mavris','Child',203)
+, (14,'Vivien','Hunold','Child',103)
+, (15,'Cuba','Ernst','Child',104)
+, (16,'Fred','Austin','Child',105)
+, (17,'Helen','Pataballa','Child',106)
+, (18,'Dan','Lorentz','Child',107)
+, (19,'Bob','Hartstein','Child',201)
+, (20,'Lucille','Fay','Child',202)
+, (21,'Kirsten','Baer','Child',204)
+, (22,'Elvis','Khoo','Child',115)
+, (23,'Sandra','Baida','Child',116)
+, (24,'Cameron','Tobias','Child',117)
+, (25,'Kevin','Himuro','Child',118)
+, (26,'Rip','Colmenares','Child',119)
+, (27,'Julia','Raphaely','Child',114)
+, (28,'Woody','Russell','Child',145)
+, (29,'Alec','Partners','Child',146)
+, (30,'Sandra','Taylor','Child',176)
 
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (1,'Penelope','Gietz','Child',206);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (2,'Nick','Higgins','Child',205);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (3,'Ed','Whalen','Child',200);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (4,'Jennifer','King','Child',100);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (5,'Johnny','Kochhar','Child',101);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (6,'Bette','De Haan','Child',102);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (7,'Grace','Faviet','Child',109);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (8,'Matthew','Chen','Child',110);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (9,'Joe','Sciarra','Child',111);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (10,'Christian','Urman','Child',112);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (11,'Zero','Popp','Child',113);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (12,'Karl','Greenberg','Child',108);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (13,'Uma','Mavris','Child',203);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (14,'Vivien','Hunold','Child',103);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (15,'Cuba','Ernst','Child',104);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (16,'Fred','Austin','Child',105);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (17,'Helen','Pataballa','Child',106);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (18,'Dan','Lorentz','Child',107);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (19,'Bob','Hartstein','Child',201);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (20,'Lucille','Fay','Child',202);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (21,'Kirsten','Baer','Child',204);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (22,'Elvis','Khoo','Child',115);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (23,'Sandra','Baida','Child',116);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (24,'Cameron','Tobias','Child',117);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (25,'Kevin','Himuro','Child',118);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (26,'Rip','Colmenares','Child',119);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (27,'Julia','Raphaely','Child',114);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (28,'Woody','Russell','Child',145);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (29,'Alec','Partners','Child',146);
-INSERT INTO `sql_tutorial.dependents`(dependent_id,first_name,last_name,relationship,employee_id) VALUES (30,'Sandra','Taylor','Child',176);
+;
 
 CREATE TABLE `sql_tutorial.clients_campaigns` (
 	client_id STRING(12) NOT NULL,
