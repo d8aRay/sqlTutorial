@@ -67,17 +67,19 @@ CREATE TABLE `sql_tutorial.departments` (
 	location_id INTEGER,
 );
 
-INSERT INTO `sql_tutorial.departments`(department_id,department_name,location_id) VALUES (1,'Administration',1700);
-INSERT INTO `sql_tutorial.departments`(department_id,department_name,location_id) VALUES (2,'Marketing',1800);
-INSERT INTO `sql_tutorial.departments`(department_id,department_name,location_id) VALUES (3,'Purchasing',1700);
-INSERT INTO `sql_tutorial.departments`(department_id,department_name,location_id) VALUES (4,'Human Resources',2400);
-INSERT INTO `sql_tutorial.departments`(department_id,department_name,location_id) VALUES (5,'Shipping',1500);
-INSERT INTO `sql_tutorial.departments`(department_id,department_name,location_id) VALUES (6,'IT',1400);
-INSERT INTO `sql_tutorial.departments`(department_id,department_name,location_id) VALUES (7,'Public Relations',2700);
-INSERT INTO `sql_tutorial.departments`(department_id,department_name,location_id) VALUES (8,'Sales',2500);
-INSERT INTO `sql_tutorial.departments`(department_id,department_name,location_id) VALUES (9,'Executive',1700);
-INSERT INTO `sql_tutorial.departments`(department_id,department_name,location_id) VALUES (10,'Finance',1700);
-INSERT INTO `sql_tutorial.departments`(department_id,department_name,location_id) VALUES (11,'Accounting',1700);
+INSERT INTO `sql_tutorial.departments`(department_id,department_name,location_id) VALUES 
+  (1,'Administration',1700)
+, (2,'Marketing',1800)
+, (3,'Purchasing',1700)
+, (4,'Human Resources',2400)
+, (5,'Shipping',1500)
+, (6,'IT',1400)
+, (7,'Public Relations',2700)
+, (8,'Sales',2500)
+, (9,'Executive',1700)
+, (10,'Finance',1700)
+, (11,'Accounting',1700)
+;
 
 CREATE TABLE `sql_tutorial.jobs` (
 	job_id INTEGER,
