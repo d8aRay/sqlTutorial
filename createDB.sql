@@ -52,13 +52,14 @@ CREATE TABLE `sql_tutorial.locations` (
 	state_province STRING(25),
 	country_id STRING(2) NOT NULL,
 );
-INSERT INTO `sql_tutorial.locations`(location_id,street_address,postal_code,city,state_province,country_id) VALUES (1400,'2014 Jabberwocky Rd','26192','Southlake','Texas','US');
-INSERT INTO `sql_tutorial.locations`(location_id,street_address,postal_code,city,state_province,country_id) VALUES (1500,'2011 Interiors Blvd','99236','South San Francisco','California','US');
-INSERT INTO `sql_tutorial.locations`(location_id,street_address,postal_code,city,state_province,country_id) VALUES (1700,'2004 Charade Rd','98199','Seattle','Washington','US');
-INSERT INTO `sql_tutorial.locations`(location_id,street_address,postal_code,city,state_province,country_id) VALUES (1800,'147 Spadina Ave','M5V 2L7','Toronto','Ontario','CA');
-INSERT INTO `sql_tutorial.locations`(location_id,street_address,postal_code,city,state_province,country_id) VALUES (2400,'8204 Arthur St',NULL,'London',NULL,'UK');
-INSERT INTO `sql_tutorial.locations`(location_id,street_address,postal_code,city,state_province,country_id) VALUES (2500,'Magdalen Centre, The Oxford Science Park','OX9 9ZB','Oxford','Oxford','UK');
-INSERT INTO `sql_tutorial.locations`(location_id,street_address,postal_code,city,state_province,country_id) VALUES (2700,'Schwanthalerstr. 7031','80925','Munich','Bavaria','DE');
+INSERT INTO `sql_tutorial.locations`(location_id,street_address,postal_code,city,state_province,country_id) VALUES 
+ (1400,'2014 Jabberwocky Rd','26192','Southlake','Texas','US')
+,(1500,'2011 Interiors Blvd','99236','South San Francisco','California','US')
+,(1700,'2004 Charade Rd','98199','Seattle','Washington','US')
+,(1800,'147 Spadina Ave','M5V 2L7','Toronto','Ontario','CA')
+,(2400,'8204 Arthur St',NULL,'London',NULL,'UK')
+,(2500,'Magdalen Centre, The Oxford Science Park','OX9 9ZB','Oxford','Oxford','UK')
+,(2700,'Schwanthalerstr. 7031','80925','Munich','Bavaria','DE')
 
 CREATE TABLE `sql_tutorial.departments` (
 	department_id INTEGER,
