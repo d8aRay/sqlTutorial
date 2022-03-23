@@ -213,143 +213,145 @@ CREATE TABLE `sql_tutorial.clients_campaigns` (
 	campaign_id STRING(15),
 );
 
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_1');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_2');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_3');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_4');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_5');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_6');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_7');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_8');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_9');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_10');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_11');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_12');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_13');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_14');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_15');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_16');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_17');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_18');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_19');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_20');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_21');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_22');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_23');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_24');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_25');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_26');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_27');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_28');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_29');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_30');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_31');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_32');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_33');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_34');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_35');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_36');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_37');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_38');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_39');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_40');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_41');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_42');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_43');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_44');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_45');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_46');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_47');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_48');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_49');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_50');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_51');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_52');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_53');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_54');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_55');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_56');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_57');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_58');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_59');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_60');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_61');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_62');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_63');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_64');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_65');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_66');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_67');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_68');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_69');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_70');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_71');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_72');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_73');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_74');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_75');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_76');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_77');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_78');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_79');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_80');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_81');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_82');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_83');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_84');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_85');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_86');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_87');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_88');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_89');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_90');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_91');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_92');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_93');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_94');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_95');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_96');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_97');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_98');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_99');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_100');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_101');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_102');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_103');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_104');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_105');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_106');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_107');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_108');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_109');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_110');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_111');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_112');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_113');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_114');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_115');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_116');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_117');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_118');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_119');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_120');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_121');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_122');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_123');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_124');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_125');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_126');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_127');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_128');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_129');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_130');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_2','Campaign_131');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_5','Campaign_132');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_1','Campaign_133');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_4','Campaign_134');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_7','Campaign_135');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_3','Campaign_136');
-INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES ('Client_6','Campaign_137');
+INSERT INTO `sql_tutorial.clients_campaigns`(client_id,campaign_id) VALUES 
+  ('Client_4','Campaign_1')
+, ('Client_7','Campaign_2')
+, ('Client_3','Campaign_3')
+, ('Client_6','Campaign_4')
+, ('Client_2','Campaign_5')
+, ('Client_5','Campaign_6')
+, ('Client_1','Campaign_7')
+, ('Client_4','Campaign_8')
+, ('Client_7','Campaign_9')
+, ('Client_3','Campaign_10')
+, ('Client_6','Campaign_11')
+, ('Client_2','Campaign_12')
+, ('Client_5','Campaign_13')
+, ('Client_1','Campaign_14')
+, ('Client_4','Campaign_15')
+, ('Client_7','Campaign_16')
+, ('Client_3','Campaign_17')
+, ('Client_6','Campaign_18')
+, ('Client_2','Campaign_19')
+, ('Client_5','Campaign_20')
+, ('Client_1','Campaign_21')
+, ('Client_4','Campaign_22')
+, ('Client_7','Campaign_23')
+, ('Client_3','Campaign_24')
+, ('Client_6','Campaign_25')
+, ('Client_2','Campaign_26')
+, ('Client_5','Campaign_27')
+, ('Client_1','Campaign_28')
+, ('Client_4','Campaign_29')
+, ('Client_7','Campaign_30')
+, ('Client_3','Campaign_31')
+, ('Client_6','Campaign_32')
+, ('Client_2','Campaign_33')
+, ('Client_5','Campaign_34')
+, ('Client_1','Campaign_35')
+, ('Client_4','Campaign_36')
+, ('Client_7','Campaign_37')
+, ('Client_3','Campaign_38')
+, ('Client_6','Campaign_39')
+, ('Client_2','Campaign_40')
+, ('Client_5','Campaign_41')
+, ('Client_1','Campaign_42')
+, ('Client_4','Campaign_43')
+, ('Client_7','Campaign_44')
+, ('Client_3','Campaign_45')
+, ('Client_6','Campaign_46')
+, ('Client_2','Campaign_47')
+, ('Client_5','Campaign_48')
+, ('Client_1','Campaign_49')
+, ('Client_4','Campaign_50')
+, ('Client_7','Campaign_51')
+, ('Client_3','Campaign_52')
+, ('Client_6','Campaign_53')
+, ('Client_2','Campaign_54')
+, ('Client_5','Campaign_55')
+, ('Client_1','Campaign_56')
+, ('Client_4','Campaign_57')
+, ('Client_7','Campaign_58')
+, ('Client_3','Campaign_59')
+, ('Client_6','Campaign_60')
+, ('Client_2','Campaign_61')
+, ('Client_5','Campaign_62')
+, ('Client_1','Campaign_63')
+, ('Client_4','Campaign_64')
+, ('Client_7','Campaign_65')
+, ('Client_3','Campaign_66')
+, ('Client_6','Campaign_67')
+, ('Client_2','Campaign_68')
+, ('Client_5','Campaign_69')
+, ('Client_1','Campaign_70')
+, ('Client_4','Campaign_71')
+, ('Client_7','Campaign_72')
+, ('Client_3','Campaign_73')
+, ('Client_6','Campaign_74')
+, ('Client_2','Campaign_75')
+, ('Client_5','Campaign_76')
+, ('Client_1','Campaign_77')
+, ('Client_4','Campaign_78')
+, ('Client_7','Campaign_79')
+, ('Client_3','Campaign_80')
+, ('Client_6','Campaign_81')
+, ('Client_2','Campaign_82')
+, ('Client_5','Campaign_83')
+, ('Client_1','Campaign_84')
+, ('Client_4','Campaign_85')
+, ('Client_7','Campaign_86')
+, ('Client_3','Campaign_87')
+, ('Client_6','Campaign_88')
+, ('Client_2','Campaign_89')
+, ('Client_5','Campaign_90')
+, ('Client_1','Campaign_91')
+, ('Client_4','Campaign_92')
+, ('Client_7','Campaign_93')
+, ('Client_3','Campaign_94')
+, ('Client_6','Campaign_95')
+, ('Client_2','Campaign_96')
+, ('Client_5','Campaign_97')
+, ('Client_1','Campaign_98')
+, ('Client_4','Campaign_99')
+, ('Client_7','Campaign_100')
+, ('Client_3','Campaign_101')
+, ('Client_6','Campaign_102')
+, ('Client_2','Campaign_103')
+, ('Client_5','Campaign_104')
+, ('Client_1','Campaign_105')
+, ('Client_4','Campaign_106')
+, ('Client_7','Campaign_107')
+, ('Client_3','Campaign_108')
+, ('Client_6','Campaign_109')
+, ('Client_2','Campaign_110')
+, ('Client_5','Campaign_111')
+, ('Client_1','Campaign_112')
+, ('Client_4','Campaign_113')
+, ('Client_7','Campaign_114')
+, ('Client_3','Campaign_115')
+, ('Client_6','Campaign_116')
+, ('Client_2','Campaign_117')
+, ('Client_5','Campaign_118')
+, ('Client_1','Campaign_119')
+, ('Client_4','Campaign_120')
+, ('Client_7','Campaign_121')
+, ('Client_3','Campaign_122')
+, ('Client_6','Campaign_123')
+, ('Client_2','Campaign_124')
+, ('Client_5','Campaign_125')
+, ('Client_1','Campaign_126')
+, ('Client_4','Campaign_127')
+, ('Client_7','Campaign_128')
+, ('Client_3','Campaign_129')
+, ('Client_6','Campaign_130')
+, ('Client_2','Campaign_131')
+, ('Client_5','Campaign_132')
+, ('Client_1','Campaign_133')
+, ('Client_4','Campaign_134')
+, ('Client_7','Campaign_135')
+, ('Client_3','Campaign_136')
+, ('Client_6','Campaign_137')
+;
 
 CREATE TABLE `sql_tutorial.campaign_sales` (
 	campaign_id STRING(15) not null,
