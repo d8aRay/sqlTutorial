@@ -60,6 +60,7 @@ INSERT INTO `sql_tutorial.locations`(location_id,street_address,postal_code,city
 ,(2400,'8204 Arthur St',NULL,'London',NULL,'UK')
 ,(2500,'Magdalen Centre, The Oxford Science Park','OX9 9ZB','Oxford','Oxford','UK')
 ,(2700,'Schwanthalerstr. 7031','80925','Munich','Bavaria','DE')
+; 
 
 CREATE TABLE `sql_tutorial.departments` (
 	department_id INTEGER,
