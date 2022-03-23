@@ -487,1006 +487,1008 @@ CREATE TABLE `sql_tutorial.user_purchases` (
     purchase_date date
 );
 
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_20','2021-01-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_9','2019-06-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_62','2020-06-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_60','2020-02-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_97','2020-10-31');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_68','2022-01-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_86','2020-08-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_29','2021-06-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_95','2019-04-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_96','2020-12-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_21','2019-07-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_56','2021-04-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_71','2020-08-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_67','2020-02-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_27','2019-11-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_70','2021-02-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_79','2021-09-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_30','2021-10-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_80','2022-12-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_34','2019-07-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_25','2020-07-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_97','2020-02-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_2','2021-07-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_3','2022-09-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_63','2022-02-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_54','2020-03-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_51','2021-09-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_37','2021-02-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_33','2021-03-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_19','2019-04-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_29','2019-07-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_22','2021-01-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_98','2019-04-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_71','2019-12-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_70','2019-10-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_10','2022-10-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_12','2020-07-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_34','2022-08-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_70','2021-07-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_30','2021-09-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_9','2022-10-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_51','2020-07-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_25','2020-06-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_85','2021-06-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_99','2021-09-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_25','2019-07-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_71','2020-12-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_71','2020-03-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_14','2020-05-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_81','2022-06-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_27','2022-11-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_69','2022-10-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_34','2022-04-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_43','2019-06-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_69','2019-11-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_52','2019-02-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_16','2022-12-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_92','2020-03-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_65','2019-08-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_98','2021-08-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_24','2022-04-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_25','2021-10-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_69','2021-06-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_54','2020-01-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_46','2022-01-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_44','2020-11-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_43','2019-12-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_19','2020-12-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_92','2021-09-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_95','2021-02-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_73','2022-02-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_90','2020-09-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_55','2022-02-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_66','2022-11-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_13','2020-01-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_35','2020-02-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_3','2020-05-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_93','2020-08-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_98','2020-10-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_59','2022-04-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_2','2021-04-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_67','2019-03-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_38','2019-06-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_3','2020-01-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_43','2022-03-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_35','2019-06-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_23','2020-11-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_6','2021-08-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_83','2020-05-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_73','2021-10-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_44','2021-11-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_68','2019-11-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_98','2022-02-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_89','2019-04-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_51','2020-02-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_82','2019-07-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_83','2020-01-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_51','2021-03-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_63','2022-08-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_97','2021-03-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_34','2020-09-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_35','2020-05-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_74','2021-10-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_64','2019-02-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_71','2019-07-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_37','2019-12-31');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_62','2022-09-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_25','2021-07-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_3','2020-03-31');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_23','2021-07-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_84','2021-12-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_93','2022-02-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_43','2022-10-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_67','2020-07-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_7','2020-11-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_25','2022-07-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_9','2021-10-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_73','2019-02-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_59','2022-01-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_18','2019-07-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_6','2020-06-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_72','2022-07-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_28','2022-11-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_89','2020-02-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_5','2020-09-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_65','2022-05-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_18','2020-11-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_70','2022-03-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_49','2022-03-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_10','2022-08-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_58','2020-07-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_48','2022-01-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_29','2021-05-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_3','2019-09-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_32','2021-06-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_97','2022-06-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_30','2022-05-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_28','2020-03-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_78','2022-05-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_97','2022-11-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_76','2019-10-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_77','2020-04-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_27','2019-05-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_38','2021-11-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_2','2020-03-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_72','2019-11-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_86','2021-05-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_83','2022-11-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_64','2022-01-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_43','2020-07-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_24','2019-08-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_18','2022-05-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_42','2022-04-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_100','2021-01-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_73','2020-11-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_87','2021-07-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_67','2021-12-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_87','2021-02-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_87','2022-03-31');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_80','2021-07-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_52','2022-11-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_75','2022-11-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_76','2021-10-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_95','2021-10-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_91','2021-12-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_57','2020-03-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_86','2020-08-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_1','2019-10-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_48','2020-09-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_13','2021-09-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_34','2021-07-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_48','2022-07-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_37','2020-06-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_77','2022-09-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_7','2020-04-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_53','2021-10-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_74','2021-03-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_37','2021-06-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_75','2022-03-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_16','2020-07-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_68','2019-03-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_65','2022-01-31');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_37','2019-05-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_5','2022-05-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_76','2019-08-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_62','2022-05-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_8','2021-05-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_21','2019-02-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_74','2022-08-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_30','2019-03-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_23','2020-05-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_72','2020-09-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_46','2022-04-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_95','2021-03-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_96','2019-03-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_35','2020-05-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_15','2022-06-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_27','2022-05-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_95','2020-07-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_66','2022-12-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_21','2022-01-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_44','2022-01-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_30','2022-06-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_94','2021-08-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_58','2021-03-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_75','2021-10-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_76','2020-11-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_3','2020-04-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_76','2022-10-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_56','2022-02-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_38','2021-06-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_21','2019-04-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_70','2020-05-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_75','2021-01-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_33','2022-10-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_64','2019-03-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_74','2020-06-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_34','2020-07-31');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_3','2020-12-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_56','2021-11-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_13','2019-01-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_98','2020-03-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_45','2021-12-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_24','2021-02-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_40','2019-12-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_9','2020-12-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_55','2020-10-31');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_15','2021-03-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_55','2021-04-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_8','2020-11-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_92','2019-05-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_86','2019-02-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_78','2022-10-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_52','2021-09-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_79','2020-07-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_46','2022-12-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_2','2020-04-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_52','2019-12-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_75','2020-04-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_94','2022-02-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_64','2021-07-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_64','2019-01-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_48','2020-12-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_47','2022-05-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_8','2020-06-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_32','2020-10-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_37','2019-10-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_14','2020-01-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_55','2022-11-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_78','2022-06-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_66','2020-09-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_55','2020-01-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_14','2021-12-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_31','2019-09-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_49','2019-01-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_87','2019-08-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_20','2021-01-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_54','2021-12-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_3','2021-04-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_36','2022-12-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_35','2020-07-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_76','2021-01-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_66','2020-10-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_17','2020-06-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_74','2020-12-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_59','2019-10-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_20','2021-02-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_25','2022-03-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_87','2020-01-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_42','2021-08-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_68','2019-01-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_38','2020-07-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_69','2019-12-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_60','2021-06-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_51','2022-05-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_4','2019-11-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_24','2020-05-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_41','2019-06-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_56','2021-06-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_68','2022-05-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_85','2020-03-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_65','2019-10-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_74','2020-05-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_4','2021-03-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_29','2020-12-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_43','2021-04-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_61','2019-12-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_54','2022-06-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_6','2019-06-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_5','2020-08-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_81','2022-06-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_78','2019-09-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_77','2020-08-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_30','2019-02-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_72','2019-10-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_57','2022-03-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_92','2021-10-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_29','2019-04-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_51','2019-01-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_93','2020-12-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_72','2022-11-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_78','2022-05-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_11','2019-05-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_36','2019-10-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_68','2022-10-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_62','2020-09-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_62','2019-12-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_6','2022-01-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_9','2021-12-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_11','2019-01-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_3','2022-02-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_34','2020-03-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_99','2019-06-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_42','2019-01-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_13','2021-06-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_54','2019-01-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_27','2021-11-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_80','2022-12-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_14','2021-11-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_64','2020-10-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_30','2022-11-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_39','2020-03-31');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_31','2022-08-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_56','2022-04-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_59','2019-11-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_59','2020-07-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_66','2020-12-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_51','2022-05-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_84','2020-08-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_33','2020-10-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_91','2021-09-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_10','2019-11-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_71','2021-03-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_66','2022-12-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_41','2021-08-31');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_94','2022-11-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_71','2021-07-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_78','2019-09-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_80','2022-10-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_36','2020-11-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_72','2019-12-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_33','2020-03-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_38','2022-07-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_29','2020-10-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_52','2019-12-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_4','2019-10-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_57','2019-09-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_97','2019-12-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_27','2020-08-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_5','2019-01-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_48','2019-11-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_22','2022-10-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_35','2021-05-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_24','2021-07-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_18','2019-03-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_94','2020-07-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_94','2022-08-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_32','2022-11-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_56','2022-05-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_24','2022-06-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_24','2022-02-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_46','2021-10-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_68','2022-04-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_21','2021-07-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_90','2020-07-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_80','2020-06-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_84','2022-06-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_56','2020-07-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_41','2020-10-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_12','2020-10-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_29','2021-04-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_36','2021-02-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_34','2019-02-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_85','2021-03-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_41','2022-02-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_22','2020-12-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_88','2021-10-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_9','2022-08-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_64','2021-12-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_59','2021-09-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_39','2022-12-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_13','2020-06-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_39','2021-07-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_52','2022-12-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_10','2022-05-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_29','2022-07-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_94','2019-10-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_28','2019-01-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_41','2021-06-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_17','2019-05-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_92','2019-09-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_31','2020-05-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_97','2020-12-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_65','2020-10-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_28','2020-10-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_64','2022-01-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_91','2022-10-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_91','2020-09-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_2','2021-02-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_67','2020-07-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_30','2020-07-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_86','2021-11-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_29','2019-08-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_19','2020-01-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_48','2020-01-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_57','2022-10-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_7','2019-07-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_2','2021-08-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_35','2022-12-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_8','2020-12-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_1','2020-04-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_22','2021-09-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_46','2020-04-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_58','2019-03-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_50','2022-02-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_69','2020-01-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_37','2021-10-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_67','2019-03-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_70','2019-03-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_37','2020-11-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_31','2022-11-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_19','2020-06-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_71','2020-04-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_45','2021-05-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_9','2019-11-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_57','2021-12-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_70','2019-06-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_3','2019-05-31');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_77','2019-05-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_6','2019-03-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_53','2019-11-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_63','2022-07-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_45','2020-08-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_92','2021-07-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_84','2020-03-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_15','2020-02-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_38','2022-05-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_13','2021-03-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_69','2019-03-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_75','2022-02-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_31','2021-03-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_99','2019-06-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_93','2019-08-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_70','2022-03-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_2','2019-04-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_22','2021-09-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_7','2020-12-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_79','2020-09-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_75','2020-04-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_54','2019-05-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_25','2020-02-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_90','2021-07-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_27','2019-07-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_48','2022-12-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_70','2021-04-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_55','2021-05-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_17','2019-09-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_25','2021-08-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_12','2021-10-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_85','2019-06-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_6','2020-08-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_49','2019-03-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_80','2020-06-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_76','2022-01-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_44','2021-01-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_70','2021-07-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_5','2022-02-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_29','2019-03-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_75','2020-07-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_59','2022-12-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_36','2022-01-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_74','2020-11-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_69','2021-09-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_14','2019-08-31');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_94','2021-09-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_61','2020-02-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_53','2019-10-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_95','2020-01-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_99','2022-07-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_3','2019-06-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_56','2020-12-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_2','2021-08-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_32','2020-06-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_27','2022-12-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_3','2022-02-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_14','2021-08-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_2','2021-08-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_5','2019-04-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_91','2019-08-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_4','2022-11-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_69','2021-11-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_26','2022-03-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_31','2022-10-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_54','2019-02-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_28','2021-09-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_78','2022-12-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_45','2020-06-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_4','2022-03-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_45','2019-07-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_36','2021-03-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_65','2021-01-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_59','2019-10-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_74','2021-11-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_12','2019-12-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_71','2020-07-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_20','2020-05-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_88','2022-01-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_23','2022-06-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_96','2022-07-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_84','2022-12-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_8','2019-02-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_27','2019-10-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_21','2019-06-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_28','2022-10-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_19','2019-12-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_62','2020-10-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_53','2021-05-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_38','2020-08-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_4','2022-03-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_40','2022-10-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_1','2021-01-31');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_81','2019-12-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_74','2021-07-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_21','2021-08-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_56','2019-11-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_88','2020-07-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_80','2019-02-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_38','2019-03-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_73','2022-06-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_55','2022-02-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_73','2022-02-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_94','2019-11-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_70','2020-06-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_53','2021-08-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_91','2022-02-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_42','2019-01-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_79','2022-03-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_59','2021-06-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_10','2020-06-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_73','2022-02-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_44','2020-10-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_54','2021-03-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_61','2021-11-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_77','2020-11-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_68','2019-07-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_94','2019-01-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_43','2021-02-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_6','2021-03-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_19','2022-03-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_96','2022-10-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_40','2019-07-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_95','2022-06-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_23','2022-02-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_38','2019-01-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_4','2021-03-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_73','2021-11-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_32','2020-02-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_1','2021-07-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_21','2019-09-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_13','2021-07-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_19','2019-11-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_3','2020-03-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_61','2019-07-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_83','2019-08-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_54','2020-02-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_19','2021-07-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_64','2022-04-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_54','2022-09-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_84','2021-09-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_99','2022-01-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_97','2020-02-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_67','2019-04-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_35','2022-03-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_83','2020-07-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_2','2021-03-31');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_15','2020-03-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_33','2021-04-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_72','2019-04-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_97','2022-07-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_25','2021-07-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_51','2019-06-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_85','2019-02-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_36','2020-07-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_95','2019-08-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_73','2019-07-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_24','2020-07-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_49','2019-11-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_57','2019-06-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_63','2019-11-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_97','2022-07-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_32','2019-08-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_54','2021-06-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_36','2019-08-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_32','2021-06-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_6','2019-10-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_73','2021-10-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_46','2022-04-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_49','2022-04-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_82','2020-07-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_92','2019-12-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_71','2019-08-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_18','2022-05-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_62','2019-11-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_68','2019-04-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_51','2022-08-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_50','2020-11-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_97','2020-05-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_68','2022-02-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_89','2022-08-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_30','2020-05-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_40','2021-04-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_14','2021-05-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_85','2022-05-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_18','2020-01-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_36','2022-01-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_88','2022-05-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_70','2020-09-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_48','2021-11-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_92','2019-05-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_100','2021-06-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_46','2022-06-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_32','2021-09-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_98','2021-07-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_47','2019-07-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_55','2020-02-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_24','2020-05-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_67','2019-12-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_10','2022-10-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_42','2019-06-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_51','2019-11-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_18','2022-03-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_98','2021-07-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_88','2022-04-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_11','2020-01-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_90','2019-01-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_44','2019-09-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_70','2021-08-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_44','2019-10-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_62','2021-02-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_74','2019-02-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_81','2021-08-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_47','2022-09-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_51','2020-06-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_1','2021-05-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_52','2019-11-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_32','2019-04-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_90','2019-01-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_2','2019-08-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_17','2020-03-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_1','2021-07-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_26','2022-05-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_90','2020-12-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_35','2021-09-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_37','2019-02-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_50','2021-06-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_77','2019-07-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_21','2022-10-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_89','2021-05-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_39','2022-03-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_34','2022-09-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_15','2019-11-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_81','2019-11-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_23','2020-08-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_78','2021-10-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_46','2022-11-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_22','2022-01-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_61','2020-02-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_88','2022-07-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_42','2022-07-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_1','2021-01-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_10','2019-10-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_56','2021-10-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_73','2019-11-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_50','2022-12-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_11','2021-05-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_72','2019-11-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_8','2019-05-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_41','2022-05-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_55','2022-09-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_21','2022-11-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_14','2021-05-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_95','2020-05-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_85','2022-11-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_11','2022-04-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_26','2022-11-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_66','2021-09-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_30','2020-10-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_7','2022-12-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_62','2019-09-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_12','2019-11-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_39','2022-07-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_19','2021-05-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_67','2022-11-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_99','2022-09-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_46','2019-04-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_97','2021-08-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_40','2019-07-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_3','2022-04-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_3','2019-09-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_65','2019-07-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_89','2022-01-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_60','2020-06-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_35','2019-01-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_24','2022-04-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_30','2022-12-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_78','2019-11-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_4','2021-06-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_28','2022-01-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_89','2022-01-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_91','2021-04-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_33','2022-06-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_94','2022-05-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_87','2022-10-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_40','2019-05-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_6','2022-01-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_3','2021-10-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_72','2020-06-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_68','2021-10-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_80','2022-12-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_99','2020-07-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_80','2022-03-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_33','2020-09-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_25','2021-02-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_34','2020-11-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_91','2022-08-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_39','2022-03-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_81','2022-10-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_97','2020-07-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_96','2022-07-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_93','2020-06-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_63','2020-09-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_84','2021-09-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_27','2020-01-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_55','2020-06-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_3','2021-06-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_98','2022-06-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_19','2021-08-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_72','2021-03-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_49','2020-02-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_57','2022-06-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_96','2019-07-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_62','2020-09-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_27','2022-03-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_66','2019-02-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_55','2022-07-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_32','2022-08-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_17','2020-09-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_41','2019-04-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_18','2020-08-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_86','2019-11-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_54','2019-04-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_42','2021-06-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_64','2019-02-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_47','2021-06-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_42','2020-11-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_38','2020-03-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_71','2021-05-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_25','2020-11-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_35','2020-12-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_39','2021-05-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_43','2022-04-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_28','2021-06-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_2','2021-06-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_91','2019-02-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_21','2019-02-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_18','2021-09-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_90','2019-10-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_56','2019-01-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_40','2022-06-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_85','2019-05-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_55','2022-09-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_41','2020-04-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_98','2019-02-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_74','2022-02-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_25','2020-02-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_32','2022-07-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_7','2021-11-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_79','2021-10-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_48','2021-07-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_50','2020-11-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_65','2021-05-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_79','2020-12-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_58','2019-11-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_23','2022-08-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_36','2019-07-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_26','2020-07-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_84','2019-06-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_91','2022-11-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_96','2019-06-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_91','2022-08-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_27','2022-01-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_72','2020-10-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_10','2022-11-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_71','2019-08-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_24','2022-02-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_95','2020-05-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_57','2020-09-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_20','2019-11-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_27','2020-05-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_11','2021-12-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_74','2022-12-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_24','2020-02-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_1','2020-09-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_80','2019-09-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_66','2022-10-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_39','2020-11-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_5','2022-11-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_18','2020-11-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_17','2019-09-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_39','2020-07-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_64','2022-11-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_32','2020-01-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_58','2020-12-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_67','2019-08-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_17','2021-03-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_5','2019-09-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_11','2020-09-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_75','2022-08-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_89','2022-06-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_98','2021-11-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_4','2022-01-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_38','2021-10-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_5','2022-09-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_24','2019-08-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_48','2019-06-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_69','2020-10-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_24','2019-09-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_9','2022-01-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_42','2022-07-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_28','2019-02-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_77','2019-03-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_7','2021-05-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_67','2020-04-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_10','2020-09-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_40','2021-02-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_47','2019-03-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_26','2022-01-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_19','2020-02-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_72','2019-10-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_85','2020-09-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_74','2022-10-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_95','2021-04-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_29','2019-05-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_30','2019-01-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_100','2020-01-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_11','2022-07-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_58','2019-02-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_45','2022-08-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_90','2020-08-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_5','2020-11-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_58','2021-01-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_70','2021-11-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_57','2019-04-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_14','2021-09-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_94','2022-11-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_24','2019-03-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_77','2022-02-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_38','2020-05-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_56','2020-05-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_25','2022-12-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_32','2020-06-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_92','2022-12-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_38','2019-06-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_47','2020-03-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_32','2020-03-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_69','2020-02-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_28','2021-01-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_65','2022-01-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_43','2022-12-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_23','2021-04-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_13','2022-08-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_63','2019-06-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_47','2021-05-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_46','2019-06-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_92','2022-01-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_10','2019-09-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_85','2019-10-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_2','2022-12-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_33','2022-10-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_28','2020-06-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_76','2020-07-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_36','2020-06-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_92','2022-12-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_16','2021-07-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_25','2019-07-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_17','2022-03-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_63','2022-02-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_41','2022-06-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_57','2019-09-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_67','2019-01-31');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_39','2020-05-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_9','2022-08-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_77','2020-04-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_54','2021-11-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_71','2021-10-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_40','2019-02-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_72','2019-08-31');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_44','2019-06-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_81','2019-01-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_7','2019-05-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_28','2019-07-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_20','2020-08-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_80','2022-01-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_5','2022-10-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_63','2021-12-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_29','2020-02-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_95','2020-02-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_68','2022-08-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_64','2022-06-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_91','2021-06-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_49','2021-03-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_31','2019-01-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_16','2019-04-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_19','2022-05-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_64','2020-10-26');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_56','2021-08-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_15','2019-01-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_24','2019-11-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_26','2020-08-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_55','2019-05-12');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_87','2020-10-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_53','2019-06-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_75','2020-10-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_22','2022-01-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_1','2021-08-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_83','2021-10-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_48','2019-08-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_74','2022-10-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_42','2022-05-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_35','2022-03-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_52','2019-08-31');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_27','2022-11-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_66','2019-11-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_83','2021-06-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_100','2021-03-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_66','2019-01-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_22','2020-12-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_64','2022-09-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_13','2019-11-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_65','2020-05-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_34','2019-04-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_33','2019-01-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_39','2019-03-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_5','2019-08-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_63','2021-03-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_91','2021-03-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_11','2020-06-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_65','2021-12-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_8','2020-11-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_44','2021-08-05');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_56','2021-03-23');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_49','2022-07-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_25','2020-01-29');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_53','2019-06-22');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_1','2021-12-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_66','2020-06-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_99','2019-02-14');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_37','2022-01-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_34','2019-04-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_19','2019-03-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_19','2022-10-31');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_59','2020-06-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_39','2022-10-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_10','2021-10-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_75','2022-05-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_53','2020-09-17');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_6','2022-03-10');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_9','2022-12-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_29','2019-02-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_20','2019-04-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_12','2020-03-19');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_87','2022-05-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_46','2021-02-06');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_59','2022-11-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_46','2022-02-28');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_92','2022-12-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_71','2021-05-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_48','2019-02-08');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_48','2019-05-01');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_33','2022-12-30');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_28','2019-05-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_99','2022-11-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_35','2020-05-02');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_26','2022-11-04');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_37','2021-05-03');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_73','2022-11-15');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_59','2020-05-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_55','2021-06-07');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_65','2021-01-21');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_48','2021-09-25');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_82','2021-10-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_50','2019-08-13');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_10','2019-12-18');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_42','2021-04-27');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_12','2022-01-16');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_50','2021-08-09');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_88','2019-06-20');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_34','2019-05-24');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_96','2021-12-11');
-INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES ('User_38','2019-10-12');
+INSERT INTO `sql_tutorial.user_purchases`(user_id,purchase_date) VALUES
+('User_20','2021-01-13')
+,('User_9','2019-06-29')
+,('User_62','2020-06-12')
+,('User_60','2020-02-04')
+,('User_97','2020-10-31')
+,('User_68','2022-01-12')
+,('User_86','2020-08-26')
+,('User_29','2021-06-12')
+,('User_95','2019-04-07')
+,('User_96','2020-12-07')
+,('User_21','2019-07-23')
+,('User_56','2021-04-28')
+,('User_71','2020-08-12')
+,('User_67','2020-02-16')
+,('User_27','2019-11-10')
+,('User_70','2021-02-09')
+,('User_79','2021-09-01')
+,('User_30','2021-10-05')
+,('User_80','2022-12-05')
+,('User_34','2019-07-18')
+,('User_25','2020-07-03')
+,('User_97','2020-02-06')
+,('User_2','2021-07-15')
+,('User_3','2022-09-10')
+,('User_63','2022-02-13')
+,('User_54','2020-03-07')
+,('User_51','2021-09-25')
+,('User_37','2021-02-09')
+,('User_33','2021-03-18')
+,('User_19','2019-04-02')
+,('User_29','2019-07-24')
+,('User_22','2021-01-29')
+,('User_98','2019-04-28')
+,('User_71','2019-12-24')
+,('User_70','2019-10-25')
+,('User_10','2022-10-18')
+,('User_12','2020-07-05')
+,('User_34','2022-08-15')
+,('User_70','2021-07-10')
+,('User_30','2021-09-22')
+,('User_9','2022-10-08')
+,('User_51','2020-07-01')
+,('User_25','2020-06-23')
+,('User_85','2021-06-28')
+,('User_99','2021-09-18')
+,('User_25','2019-07-29')
+,('User_71','2020-12-24')
+,('User_71','2020-03-18')
+,('User_14','2020-05-11')
+,('User_81','2022-06-02')
+,('User_27','2022-11-19')
+,('User_69','2022-10-12')
+,('User_34','2022-04-05')
+,('User_43','2019-06-18')
+,('User_69','2019-11-29')
+,('User_52','2019-02-20')
+,('User_16','2022-12-12')
+,('User_92','2020-03-04')
+,('User_65','2019-08-16')
+,('User_98','2021-08-03')
+,('User_24','2022-04-06')
+,('User_25','2021-10-09')
+,('User_69','2021-06-23')
+,('User_54','2020-01-04')
+,('User_46','2022-01-23')
+,('User_44','2020-11-30')
+,('User_43','2019-12-06')
+,('User_19','2020-12-09')
+,('User_92','2021-09-28')
+,('User_95','2021-02-19')
+,('User_73','2022-02-04')
+,('User_90','2020-09-19')
+,('User_55','2022-02-07')
+,('User_66','2022-11-25')
+,('User_13','2020-01-24')
+,('User_35','2020-02-04')
+,('User_3','2020-05-04')
+,('User_93','2020-08-01')
+,('User_98','2020-10-17')
+,('User_59','2022-04-25')
+,('User_2','2021-04-01')
+,('User_67','2019-03-25')
+,('User_38','2019-06-07')
+,('User_3','2020-01-30')
+,('User_43','2022-03-29')
+,('User_35','2019-06-14')
+,('User_23','2020-11-27')
+,('User_6','2021-08-19')
+,('User_83','2020-05-05')
+,('User_73','2021-10-05')
+,('User_44','2021-11-07')
+,('User_68','2019-11-12')
+,('User_98','2022-02-03')
+,('User_89','2019-04-25')
+,('User_51','2020-02-09')
+,('User_82','2019-07-01')
+,('User_83','2020-01-20')
+,('User_51','2021-03-06')
+,('User_63','2022-08-09')
+,('User_97','2021-03-24')
+,('User_34','2020-09-14')
+,('User_35','2020-05-11')
+,('User_74','2021-10-22')
+,('User_64','2019-02-03')
+,('User_71','2019-07-09')
+,('User_37','2019-12-31')
+,('User_62','2022-09-09')
+,('User_25','2021-07-14')
+,('User_3','2020-03-31')
+,('User_23','2021-07-30')
+,('User_84','2021-12-01')
+,('User_93','2022-02-19')
+,('User_43','2022-10-28')
+,('User_67','2020-07-10')
+,('User_7','2020-11-04')
+,('User_25','2022-07-05')
+,('User_9','2021-10-04')
+,('User_73','2019-02-16')
+,('User_59','2022-01-01')
+,('User_18','2019-07-22')
+,('User_6','2020-06-19')
+,('User_72','2022-07-12')
+,('User_28','2022-11-02')
+,('User_89','2020-02-29')
+,('User_5','2020-09-14')
+,('User_65','2022-05-08')
+,('User_18','2020-11-05')
+,('User_70','2022-03-21')
+,('User_49','2022-03-11')
+,('User_10','2022-08-19')
+,('User_58','2020-07-22')
+,('User_48','2022-01-16')
+,('User_29','2021-05-09')
+,('User_3','2019-09-24')
+,('User_32','2021-06-06')
+,('User_97','2022-06-10')
+,('User_30','2022-05-14')
+,('User_28','2020-03-26')
+,('User_78','2022-05-18')
+,('User_97','2022-11-19')
+,('User_76','2019-10-02')
+,('User_77','2020-04-01')
+,('User_27','2019-05-06')
+,('User_38','2021-11-09')
+,('User_2','2020-03-28')
+,('User_72','2019-11-22')
+,('User_86','2021-05-20')
+,('User_83','2022-11-11')
+,('User_64','2022-01-16')
+,('User_43','2020-07-12')
+,('User_24','2019-08-27')
+,('User_18','2022-05-03')
+,('User_42','2022-04-08')
+,('User_100','2021-01-11')
+,('User_73','2020-11-20')
+,('User_87','2021-07-25')
+,('User_67','2021-12-02')
+,('User_87','2021-02-05')
+,('User_87','2022-03-31')
+,('User_80','2021-07-12')
+,('User_52','2022-11-09')
+,('User_75','2022-11-27')
+,('User_76','2021-10-29')
+,('User_95','2021-10-24')
+,('User_91','2021-12-06')
+,('User_57','2020-03-26')
+,('User_86','2020-08-18')
+,('User_1','2019-10-05')
+,('User_48','2020-09-23')
+,('User_13','2021-09-01')
+,('User_34','2021-07-03')
+,('User_48','2022-07-01')
+,('User_37','2020-06-27')
+,('User_77','2022-09-30')
+,('User_7','2020-04-07')
+,('User_53','2021-10-28')
+,('User_74','2021-03-12')
+,('User_37','2021-06-13')
+,('User_75','2022-03-29')
+,('User_16','2020-07-11')
+,('User_68','2019-03-26')
+,('User_65','2022-01-31')
+,('User_37','2019-05-20')
+,('User_5','2022-05-29')
+,('User_76','2019-08-14')
+,('User_62','2022-05-05')
+,('User_8','2021-05-17')
+,('User_21','2019-02-05')
+,('User_74','2022-08-16')
+,('User_30','2019-03-04')
+,('User_23','2020-05-04')
+,('User_72','2020-09-13')
+,('User_46','2022-04-17')
+,('User_95','2021-03-08')
+,('User_96','2019-03-28')
+,('User_35','2020-05-07')
+,('User_15','2022-06-23')
+,('User_27','2022-05-06')
+,('User_95','2020-07-18')
+,('User_66','2022-12-03')
+,('User_21','2022-01-18')
+,('User_44','2022-01-07')
+,('User_30','2022-06-30')
+,('User_94','2021-08-11')
+,('User_58','2021-03-02')
+,('User_75','2021-10-26')
+,('User_76','2020-11-22')
+,('User_3','2020-04-14')
+,('User_76','2022-10-26')
+,('User_56','2022-02-20')
+,('User_38','2021-06-23')
+,('User_21','2019-04-30')
+,('User_70','2020-05-17')
+,('User_75','2021-01-09')
+,('User_33','2022-10-29')
+,('User_64','2019-03-11')
+,('User_74','2020-06-11')
+,('User_34','2020-07-31')
+,('User_3','2020-12-10')
+,('User_56','2021-11-05')
+,('User_13','2019-01-14')
+,('User_98','2020-03-28')
+,('User_45','2021-12-17')
+,('User_24','2021-02-21')
+,('User_40','2019-12-23')
+,('User_9','2020-12-24')
+,('User_55','2020-10-31')
+,('User_15','2021-03-10')
+,('User_55','2021-04-23')
+,('User_8','2020-11-25')
+,('User_92','2019-05-03')
+,('User_86','2019-02-20')
+,('User_78','2022-10-05')
+,('User_52','2021-09-09')
+,('User_79','2020-07-02')
+,('User_46','2022-12-06')
+,('User_2','2020-04-27')
+,('User_52','2019-12-22')
+,('User_75','2020-04-02')
+,('User_94','2022-02-09')
+,('User_64','2021-07-15')
+,('User_64','2019-01-03')
+,('User_48','2020-12-20')
+,('User_47','2022-05-11')
+,('User_8','2020-06-15')
+,('User_32','2020-10-13')
+,('User_37','2019-10-25')
+,('User_14','2020-01-24')
+,('User_55','2022-11-05')
+,('User_78','2022-06-13')
+,('User_66','2020-09-06')
+,('User_55','2020-01-18')
+,('User_14','2021-12-14')
+,('User_31','2019-09-13')
+,('User_49','2019-01-19')
+,('User_87','2019-08-11')
+,('User_20','2021-01-03')
+,('User_54','2021-12-10')
+,('User_3','2021-04-23')
+,('User_36','2022-12-16')
+,('User_35','2020-07-25')
+,('User_76','2021-01-17')
+,('User_66','2020-10-05')
+,('User_17','2020-06-13')
+,('User_74','2020-12-02')
+,('User_59','2019-10-24')
+,('User_20','2021-02-09')
+,('User_25','2022-03-29')
+,('User_87','2020-01-26')
+,('User_42','2021-08-27')
+,('User_68','2019-01-11')
+,('User_38','2020-07-03')
+,('User_69','2019-12-17')
+,('User_60','2021-06-26')
+,('User_51','2022-05-10')
+,('User_4','2019-11-09')
+,('User_24','2020-05-16')
+,('User_41','2019-06-07')
+,('User_56','2021-06-07')
+,('User_68','2022-05-03')
+,('User_85','2020-03-26')
+,('User_65','2019-10-08')
+,('User_74','2020-05-02')
+,('User_4','2021-03-07')
+,('User_29','2020-12-28')
+,('User_43','2021-04-28')
+,('User_61','2019-12-22')
+,('User_54','2022-06-12')
+,('User_6','2019-06-24')
+,('User_5','2020-08-13')
+,('User_81','2022-06-19')
+,('User_78','2019-09-15')
+,('User_77','2020-08-30')
+,('User_30','2019-02-12')
+,('User_72','2019-10-01')
+,('User_57','2022-03-05')
+,('User_92','2021-10-30')
+,('User_29','2019-04-12')
+,('User_51','2019-01-06')
+,('User_93','2020-12-28')
+,('User_72','2022-11-10')
+,('User_78','2022-05-20')
+,('User_11','2019-05-12')
+,('User_36','2019-10-02')
+,('User_68','2022-10-06')
+,('User_62','2020-09-07')
+,('User_62','2019-12-17')
+,('User_6','2022-01-08')
+,('User_9','2021-12-16')
+,('User_11','2019-01-20')
+,('User_3','2022-02-01')
+,('User_34','2020-03-20')
+,('User_99','2019-06-18')
+,('User_42','2019-01-03')
+,('User_13','2021-06-26')
+,('User_54','2019-01-25')
+,('User_27','2021-11-15')
+,('User_80','2022-12-04')
+,('User_14','2021-11-06')
+,('User_64','2020-10-17')
+,('User_30','2022-11-11')
+,('User_39','2020-03-31')
+,('User_31','2022-08-25')
+,('User_56','2022-04-02')
+,('User_59','2019-11-06')
+,('User_59','2020-07-23')
+,('User_66','2020-12-15')
+,('User_51','2022-05-28')
+,('User_84','2020-08-30')
+,('User_33','2020-10-10')
+,('User_91','2021-09-23')
+,('User_10','2019-11-28')
+,('User_71','2021-03-24')
+,('User_66','2022-12-05')
+,('User_41','2021-08-31')
+,('User_94','2022-11-30')
+,('User_71','2021-07-22')
+,('User_78','2019-09-05')
+,('User_80','2022-10-01')
+,('User_36','2020-11-19')
+,('User_72','2019-12-22')
+,('User_33','2020-03-09')
+,('User_38','2022-07-29')
+,('User_29','2020-10-16')
+,('User_52','2019-12-10')
+,('User_4','2019-10-29')
+,('User_57','2019-09-26')
+,('User_97','2019-12-23')
+,('User_27','2020-08-23')
+,('User_5','2019-01-06')
+,('User_48','2019-11-08')
+,('User_22','2022-10-28')
+,('User_35','2021-05-19')
+,('User_24','2021-07-20')
+,('User_18','2019-03-08')
+,('User_94','2020-07-19')
+,('User_94','2022-08-27')
+,('User_32','2022-11-06')
+,('User_56','2022-05-01')
+,('User_24','2022-06-20')
+,('User_24','2022-02-09')
+,('User_46','2021-10-26')
+,('User_68','2022-04-03')
+,('User_21','2021-07-28')
+,('User_90','2020-07-23')
+,('User_80','2020-06-17')
+,('User_84','2022-06-15')
+,('User_56','2020-07-25')
+,('User_41','2020-10-10')
+,('User_12','2020-10-11')
+,('User_29','2021-04-08')
+,('User_36','2021-02-23')
+,('User_34','2019-02-15')
+,('User_85','2021-03-21')
+,('User_41','2022-02-21')
+,('User_22','2020-12-30')
+,('User_88','2021-10-12')
+,('User_9','2022-08-11')
+,('User_64','2021-12-02')
+,('User_59','2021-09-17')
+,('User_39','2022-12-15')
+,('User_13','2020-06-20')
+,('User_39','2021-07-15')
+,('User_52','2022-12-12')
+,('User_10','2022-05-25')
+,('User_29','2022-07-07')
+,('User_94','2019-10-25')
+,('User_28','2019-01-04')
+,('User_41','2021-06-12')
+,('User_17','2019-05-22')
+,('User_92','2019-09-09')
+,('User_31','2020-05-24')
+,('User_97','2020-12-25')
+,('User_65','2020-10-16')
+,('User_28','2020-10-17')
+,('User_64','2022-01-13')
+,('User_91','2022-10-30')
+,('User_91','2020-09-20')
+,('User_2','2021-02-24')
+,('User_67','2020-07-08')
+,('User_30','2020-07-19')
+,('User_86','2021-11-01')
+,('User_29','2019-08-02')
+,('User_19','2020-01-13')
+,('User_48','2020-01-18')
+,('User_57','2022-10-17')
+,('User_7','2019-07-24')
+,('User_2','2021-08-02')
+,('User_35','2022-12-02')
+,('User_8','2020-12-30')
+,('User_1','2020-04-12')
+,('User_22','2021-09-20')
+,('User_46','2020-04-19')
+,('User_58','2019-03-07')
+,('User_50','2022-02-24')
+,('User_69','2020-01-19')
+,('User_37','2021-10-11')
+,('User_67','2019-03-04')
+,('User_70','2019-03-02')
+,('User_37','2020-11-15')
+,('User_31','2022-11-25')
+,('User_19','2020-06-01')
+,('User_71','2020-04-10')
+,('User_45','2021-05-28')
+,('User_9','2019-11-14')
+,('User_57','2021-12-23')
+,('User_70','2019-06-07')
+,('User_3','2019-05-31')
+,('User_77','2019-05-12')
+,('User_6','2019-03-04')
+,('User_53','2019-11-29')
+,('User_63','2022-07-15')
+,('User_45','2020-08-01')
+,('User_92','2021-07-06')
+,('User_84','2020-03-24')
+,('User_15','2020-02-16')
+,('User_38','2022-05-02')
+,('User_13','2021-03-26')
+,('User_69','2019-03-11')
+,('User_75','2022-02-08')
+,('User_31','2021-03-29')
+,('User_99','2019-06-06')
+,('User_93','2019-08-29')
+,('User_70','2022-03-07')
+,('User_2','2019-04-10')
+,('User_22','2021-09-21')
+,('User_7','2020-12-12')
+,('User_79','2020-09-16')
+,('User_75','2020-04-16')
+,('User_54','2019-05-20')
+,('User_25','2020-02-29')
+,('User_90','2021-07-17')
+,('User_27','2019-07-06')
+,('User_48','2022-12-08')
+,('User_70','2021-04-29')
+,('User_55','2021-05-16')
+,('User_17','2019-09-29')
+,('User_25','2021-08-07')
+,('User_12','2021-10-27')
+,('User_85','2019-06-22')
+,('User_6','2020-08-02')
+,('User_49','2019-03-02')
+,('User_80','2020-06-03')
+,('User_76','2022-01-25')
+,('User_44','2021-01-17')
+,('User_70','2021-07-27')
+,('User_5','2022-02-16')
+,('User_29','2019-03-26')
+,('User_75','2020-07-07')
+,('User_59','2022-12-08')
+,('User_36','2022-01-16')
+,('User_74','2020-11-14')
+,('User_69','2021-09-19')
+,('User_14','2019-08-31')
+,('User_94','2021-09-13')
+,('User_61','2020-02-08')
+,('User_53','2019-10-30')
+,('User_95','2020-01-06')
+,('User_99','2022-07-09')
+,('User_3','2019-06-03')
+,('User_56','2020-12-19')
+,('User_2','2021-08-20')
+,('User_32','2020-06-22')
+,('User_27','2022-12-05')
+,('User_3','2022-02-07')
+,('User_14','2021-08-09')
+,('User_2','2021-08-24')
+,('User_5','2019-04-17')
+,('User_91','2019-08-07')
+,('User_4','2022-11-06')
+,('User_69','2021-11-20')
+,('User_26','2022-03-30')
+,('User_31','2022-10-18')
+,('User_54','2019-02-06')
+,('User_28','2021-09-28')
+,('User_78','2022-12-15')
+,('User_45','2020-06-06')
+,('User_4','2022-03-01')
+,('User_45','2019-07-25')
+,('User_36','2021-03-19')
+,('User_65','2021-01-30')
+,('User_59','2019-10-19')
+,('User_74','2021-11-07')
+,('User_12','2019-12-07')
+,('User_71','2020-07-11')
+,('User_20','2020-05-01')
+,('User_88','2022-01-12')
+,('User_23','2022-06-07')
+,('User_96','2022-07-12')
+,('User_84','2022-12-21')
+,('User_8','2019-02-01')
+,('User_27','2019-10-24')
+,('User_21','2019-06-28')
+,('User_28','2022-10-25')
+,('User_19','2019-12-21')
+,('User_62','2020-10-21')
+,('User_53','2021-05-01')
+,('User_38','2020-08-26')
+,('User_4','2022-03-01')
+,('User_40','2022-10-06')
+,('User_1','2021-01-31')
+,('User_81','2019-12-02')
+,('User_74','2021-07-04')
+,('User_21','2021-08-09')
+,('User_56','2019-11-21')
+,('User_88','2020-07-28')
+,('User_80','2019-02-07')
+,('User_38','2019-03-04')
+,('User_73','2022-06-14')
+,('User_55','2022-02-10')
+,('User_73','2022-02-04')
+,('User_94','2019-11-04')
+,('User_70','2020-06-22')
+,('User_53','2021-08-13')
+,('User_91','2022-02-18')
+,('User_42','2019-01-19')
+,('User_79','2022-03-10')
+,('User_59','2021-06-16')
+,('User_10','2020-06-15')
+,('User_73','2022-02-19')
+,('User_44','2020-10-19')
+,('User_54','2021-03-03')
+,('User_61','2021-11-04')
+,('User_77','2020-11-16')
+,('User_68','2019-07-27')
+,('User_94','2019-01-02')
+,('User_43','2021-02-21')
+,('User_6','2021-03-02')
+,('User_19','2022-03-07')
+,('User_96','2022-10-16')
+,('User_40','2019-07-05')
+,('User_95','2022-06-17')
+,('User_23','2022-02-14')
+,('User_38','2019-01-19')
+,('User_4','2021-03-19')
+,('User_73','2021-11-22')
+,('User_32','2020-02-16')
+,('User_1','2021-07-22')
+,('User_21','2019-09-22')
+,('User_13','2021-07-15')
+,('User_19','2019-11-29')
+,('User_3','2020-03-12')
+,('User_61','2019-07-07')
+,('User_83','2019-08-28')
+,('User_54','2020-02-07')
+,('User_19','2021-07-01')
+,('User_64','2022-04-07')
+,('User_54','2022-09-06')
+,('User_84','2021-09-11')
+,('User_99','2022-01-01')
+,('User_97','2020-02-24')
+,('User_67','2019-04-24')
+,('User_35','2022-03-09')
+,('User_83','2020-07-05')
+,('User_2','2021-03-31')
+,('User_15','2020-03-09')
+,('User_33','2021-04-29')
+,('User_72','2019-04-01')
+,('User_97','2022-07-26')
+,('User_25','2021-07-19')
+,('User_51','2019-06-22')
+,('User_85','2019-02-17')
+,('User_36','2020-07-24')
+,('User_95','2019-08-05')
+,('User_73','2019-07-21')
+,('User_24','2020-07-24')
+,('User_49','2019-11-14')
+,('User_57','2019-06-28')
+,('User_63','2019-11-25')
+,('User_97','2022-07-17')
+,('User_32','2019-08-22')
+,('User_54','2021-06-08')
+,('User_36','2019-08-03')
+,('User_32','2021-06-06')
+,('User_6','2019-10-13')
+,('User_73','2021-10-15')
+,('User_46','2022-04-30')
+,('User_49','2022-04-09')
+,('User_82','2020-07-15')
+,('User_92','2019-12-02')
+,('User_71','2019-08-18')
+,('User_18','2022-05-25')
+,('User_62','2019-11-04')
+,('User_68','2019-04-13')
+,('User_51','2022-08-08')
+,('User_50','2020-11-15')
+,('User_97','2020-05-10')
+,('User_68','2022-02-16')
+,('User_89','2022-08-29')
+,('User_30','2020-05-11')
+,('User_40','2021-04-28')
+,('User_14','2021-05-24')
+,('User_85','2022-05-17')
+,('User_18','2020-01-28')
+,('User_36','2022-01-15')
+,('User_88','2022-05-27')
+,('User_70','2020-09-27')
+,('User_48','2021-11-16')
+,('User_92','2019-05-19')
+,('User_100','2021-06-04')
+,('User_46','2022-06-19')
+,('User_32','2021-09-18')
+,('User_98','2021-07-05')
+,('User_47','2019-07-19')
+,('User_55','2020-02-09')
+,('User_24','2020-05-14')
+,('User_67','2019-12-20')
+,('User_10','2022-10-30')
+,('User_42','2019-06-29')
+,('User_51','2019-11-27')
+,('User_18','2022-03-24')
+,('User_98','2021-07-02')
+,('User_88','2022-04-22')
+,('User_11','2020-01-28')
+,('User_90','2019-01-11')
+,('User_44','2019-09-05')
+,('User_70','2021-08-02')
+,('User_44','2019-10-13')
+,('User_62','2021-02-20')
+,('User_74','2019-02-07')
+,('User_81','2021-08-23')
+,('User_47','2022-09-10')
+,('User_51','2020-06-14')
+,('User_1','2021-05-27')
+,('User_52','2019-11-23')
+,('User_32','2019-04-01')
+,('User_90','2019-01-19')
+,('User_2','2019-08-10')
+,('User_17','2020-03-23')
+,('User_1','2021-07-28')
+,('User_26','2022-05-12')
+,('User_90','2020-12-21')
+,('User_35','2021-09-14')
+,('User_37','2019-02-06')
+,('User_50','2021-06-06')
+,('User_77','2019-07-26')
+,('User_21','2022-10-29')
+,('User_89','2021-05-14')
+,('User_39','2022-03-12')
+,('User_34','2022-09-02')
+,('User_15','2019-11-26')
+,('User_81','2019-11-26')
+,('User_23','2020-08-30')
+,('User_78','2021-10-05')
+,('User_46','2022-11-21')
+,('User_22','2022-01-03')
+,('User_61','2020-02-19')
+,('User_88','2022-07-27')
+,('User_42','2022-07-24')
+,('User_1','2021-01-21')
+,('User_10','2019-10-12')
+,('User_56','2021-10-12')
+,('User_73','2019-11-21')
+,('User_50','2022-12-06')
+,('User_11','2021-05-25')
+,('User_72','2019-11-15')
+,('User_8','2019-05-24')
+,('User_41','2022-05-25')
+,('User_55','2022-09-01')
+,('User_21','2022-11-25')
+,('User_14','2021-05-03')
+,('User_95','2020-05-27')
+,('User_85','2022-11-09')
+,('User_11','2022-04-03')
+,('User_26','2022-11-21')
+,('User_66','2021-09-24')
+,('User_30','2020-10-06')
+,('User_7','2022-12-04')
+,('User_62','2019-09-16')
+,('User_12','2019-11-18')
+,('User_39','2022-07-29')
+,('User_19','2021-05-09')
+,('User_67','2022-11-05')
+,('User_99','2022-09-22')
+,('User_46','2019-04-19')
+,('User_97','2021-08-10')
+,('User_40','2019-07-15')
+,('User_3','2022-04-01')
+,('User_3','2019-09-24')
+,('User_65','2019-07-12')
+,('User_89','2022-01-28')
+,('User_60','2020-06-26')
+,('User_35','2019-01-05')
+,('User_24','2022-04-15')
+,('User_30','2022-12-06')
+,('User_78','2019-11-17')
+,('User_4','2021-06-07')
+,('User_28','2022-01-16')
+,('User_89','2022-01-29')
+,('User_91','2021-04-18')
+,('User_33','2022-06-25')
+,('User_94','2022-05-27')
+,('User_87','2022-10-30')
+,('User_40','2019-05-07')
+,('User_6','2022-01-01')
+,('User_3','2021-10-28')
+,('User_72','2020-06-03')
+,('User_68','2021-10-25')
+,('User_80','2022-12-12')
+,('User_99','2020-07-08')
+,('User_80','2022-03-17')
+,('User_33','2020-09-30')
+,('User_25','2021-02-28')
+,('User_34','2020-11-28')
+,('User_91','2022-08-02')
+,('User_39','2022-03-13')
+,('User_81','2022-10-07')
+,('User_97','2020-07-01')
+,('User_96','2022-07-05')
+,('User_93','2020-06-13')
+,('User_63','2020-09-13')
+,('User_84','2021-09-28')
+,('User_27','2020-01-28')
+,('User_55','2020-06-23')
+,('User_3','2021-06-05')
+,('User_98','2022-06-16')
+,('User_19','2021-08-09')
+,('User_72','2021-03-24')
+,('User_49','2020-02-12')
+,('User_57','2022-06-15')
+,('User_96','2019-07-11')
+,('User_62','2020-09-01')
+,('User_27','2022-03-08')
+,('User_66','2019-02-22')
+,('User_55','2022-07-07')
+,('User_32','2022-08-17')
+,('User_17','2020-09-28')
+,('User_41','2019-04-13')
+,('User_18','2020-08-04')
+,('User_86','2019-11-17')
+,('User_54','2019-04-19')
+,('User_42','2021-06-02')
+,('User_64','2019-02-20')
+,('User_47','2021-06-23')
+,('User_42','2020-11-17')
+,('User_38','2020-03-20')
+,('User_71','2021-05-15')
+,('User_25','2020-11-29')
+,('User_35','2020-12-14')
+,('User_39','2021-05-30')
+,('User_43','2022-04-25')
+,('User_28','2021-06-03')
+,('User_2','2021-06-17')
+,('User_91','2019-02-11')
+,('User_21','2019-02-19')
+,('User_18','2021-09-21')
+,('User_90','2019-10-16')
+,('User_56','2019-01-15')
+,('User_40','2022-06-08')
+,('User_85','2019-05-15')
+,('User_55','2022-09-24')
+,('User_41','2020-04-15')
+,('User_98','2019-02-28')
+,('User_74','2022-02-02')
+,('User_25','2020-02-14')
+,('User_32','2022-07-18')
+,('User_7','2021-11-17')
+,('User_79','2021-10-04')
+,('User_48','2021-07-02')
+,('User_50','2020-11-08')
+,('User_65','2021-05-01')
+,('User_79','2020-12-08')
+,('User_58','2019-11-07')
+,('User_23','2022-08-11')
+,('User_36','2019-07-26')
+,('User_26','2020-07-11')
+,('User_84','2019-06-23')
+,('User_91','2022-11-06')
+,('User_96','2019-06-08')
+,('User_91','2022-08-27')
+,('User_27','2022-01-23')
+,('User_72','2020-10-22')
+,('User_10','2022-11-01')
+,('User_71','2019-08-23')
+,('User_24','2022-02-16')
+,('User_95','2020-05-09')
+,('User_57','2020-09-26')
+,('User_20','2019-11-07')
+,('User_27','2020-05-08')
+,('User_11','2021-12-06')
+,('User_74','2022-12-29')
+,('User_24','2020-02-25')
+,('User_1','2020-09-18')
+,('User_80','2019-09-19')
+,('User_66','2022-10-10')
+,('User_39','2020-11-23')
+,('User_5','2022-11-16')
+,('User_18','2020-11-11')
+,('User_17','2019-09-22')
+,('User_39','2020-07-30')
+,('User_64','2022-11-21')
+,('User_32','2020-01-04')
+,('User_58','2020-12-22')
+,('User_67','2019-08-27')
+,('User_17','2021-03-01')
+,('User_5','2019-09-12')
+,('User_11','2020-09-03')
+,('User_75','2022-08-04')
+,('User_89','2022-06-13')
+,('User_98','2021-11-29')
+,('User_4','2022-01-03')
+,('User_38','2021-10-17')
+,('User_5','2022-09-07')
+,('User_24','2019-08-19')
+,('User_48','2019-06-12')
+,('User_69','2020-10-23')
+,('User_24','2019-09-20')
+,('User_9','2022-01-30')
+,('User_42','2022-07-03')
+,('User_28','2019-02-06')
+,('User_77','2019-03-05')
+,('User_7','2021-05-19')
+,('User_67','2020-04-17')
+,('User_10','2020-09-08')
+,('User_40','2021-02-12')
+,('User_47','2019-03-30')
+,('User_26','2022-01-12')
+,('User_19','2020-02-07')
+,('User_72','2019-10-23')
+,('User_85','2020-09-12')
+,('User_74','2022-10-15')
+,('User_95','2021-04-13')
+,('User_29','2019-05-21')
+,('User_30','2019-01-16')
+,('User_100','2020-01-03')
+,('User_11','2022-07-02')
+,('User_58','2019-02-19')
+,('User_45','2022-08-22')
+,('User_90','2020-08-26')
+,('User_5','2020-11-21')
+,('User_58','2021-01-01')
+,('User_70','2021-11-24')
+,('User_57','2019-04-24')
+,('User_14','2021-09-18')
+,('User_94','2022-11-08')
+,('User_24','2019-03-30')
+,('User_77','2022-02-25')
+,('User_38','2020-05-19')
+,('User_56','2020-05-07')
+,('User_25','2022-12-02')
+,('User_32','2020-06-16')
+,('User_92','2022-12-19')
+,('User_38','2019-06-13')
+,('User_47','2020-03-28')
+,('User_32','2020-03-05')
+,('User_69','2020-02-16')
+,('User_28','2021-01-13')
+,('User_65','2022-01-23')
+,('User_43','2022-12-21')
+,('User_23','2021-04-21')
+,('User_13','2022-08-27')
+,('User_63','2019-06-11')
+,('User_47','2021-05-18')
+,('User_46','2019-06-16')
+,('User_92','2022-01-10')
+,('User_10','2019-09-04')
+,('User_85','2019-10-22')
+,('User_2','2022-12-02')
+,('User_33','2022-10-26')
+,('User_28','2020-06-23')
+,('User_76','2020-07-29')
+,('User_36','2020-06-14')
+,('User_92','2022-12-26')
+,('User_16','2021-07-16')
+,('User_25','2019-07-28')
+,('User_17','2022-03-16')
+,('User_63','2022-02-18')
+,('User_41','2022-06-07')
+,('User_57','2019-09-22')
+,('User_67','2019-01-31')
+,('User_39','2020-05-30')
+,('User_9','2022-08-03')
+,('User_77','2020-04-16')
+,('User_54','2021-11-15')
+,('User_71','2021-10-18')
+,('User_40','2019-02-26')
+,('User_72','2019-08-31')
+,('User_44','2019-06-13')
+,('User_81','2019-01-18')
+,('User_7','2019-05-28')
+,('User_28','2019-07-02')
+,('User_20','2020-08-03')
+,('User_80','2022-01-22')
+,('User_5','2022-10-04')
+,('User_63','2021-12-30')
+,('User_29','2020-02-12')
+,('User_95','2020-02-10')
+,('User_68','2022-08-29')
+,('User_64','2022-06-04')
+,('User_91','2021-06-22')
+,('User_49','2021-03-27')
+,('User_31','2019-01-12')
+,('User_16','2019-04-11')
+,('User_19','2022-05-26')
+,('User_64','2020-10-26')
+,('User_56','2021-08-24')
+,('User_15','2019-01-04')
+,('User_24','2019-11-18')
+,('User_26','2020-08-29')
+,('User_55','2019-05-12')
+,('User_87','2020-10-22')
+,('User_53','2019-06-24')
+,('User_75','2020-10-09')
+,('User_22','2022-01-06')
+,('User_1','2021-08-04')
+,('User_83','2021-10-27')
+,('User_48','2019-08-09')
+,('User_74','2022-10-25')
+,('User_42','2022-05-13')
+,('User_35','2022-03-27')
+,('User_52','2019-08-31')
+,('User_27','2022-11-14')
+,('User_66','2019-11-28')
+,('User_83','2021-06-15')
+,('User_100','2021-03-03')
+,('User_66','2019-01-20')
+,('User_22','2020-12-23')
+,('User_64','2022-09-28')
+,('User_13','2019-11-18')
+,('User_65','2020-05-14')
+,('User_34','2019-04-25')
+,('User_33','2019-01-09')
+,('User_39','2019-03-18')
+,('User_5','2019-08-28')
+,('User_63','2021-03-21')
+,('User_91','2021-03-25')
+,('User_11','2020-06-18')
+,('User_65','2021-12-17')
+,('User_8','2020-11-11')
+,('User_44','2021-08-05')
+,('User_56','2021-03-23')
+,('User_49','2022-07-19')
+,('User_25','2020-01-29')
+,('User_53','2019-06-22')
+,('User_1','2021-12-21')
+,('User_66','2020-06-04')
+,('User_99','2019-02-14')
+,('User_37','2022-01-21')
+,('User_34','2019-04-28')
+,('User_19','2019-03-01')
+,('User_19','2022-10-31')
+,('User_59','2020-06-21')
+,('User_39','2022-10-07')
+,('User_10','2021-10-20')
+,('User_75','2022-05-18')
+,('User_53','2020-09-17')
+,('User_6','2022-03-10')
+,('User_9','2022-12-15')
+,('User_29','2019-02-09')
+,('User_20','2019-04-25')
+,('User_12','2020-03-19')
+,('User_87','2022-05-24')
+,('User_46','2021-02-06')
+,('User_59','2022-11-13')
+,('User_46','2022-02-28')
+,('User_92','2022-12-08')
+,('User_71','2021-05-25')
+,('User_48','2019-02-08')
+,('User_48','2019-05-01')
+,('User_33','2022-12-30')
+,('User_28','2019-05-18')
+,('User_99','2022-11-03')
+,('User_35','2020-05-02')
+,('User_26','2022-11-04')
+,('User_37','2021-05-03')
+,('User_73','2022-11-15')
+,('User_59','2020-05-25')
+,('User_55','2021-06-07')
+,('User_65','2021-01-21')
+,('User_48','2021-09-25')
+,('User_82','2021-10-18')
+,('User_50','2019-08-13')
+,('User_10','2019-12-18')
+,('User_42','2021-04-27')
+,('User_12','2022-01-16')
+,('User_50','2021-08-09')
+,('User_88','2019-06-20')
+,('User_34','2019-05-24')
+,('User_96','2021-12-11')
+,('User_38','2019-10-12')
+;
 
 CREATE TABLE `sql_tutorial.calendar` (
 	date DATE
