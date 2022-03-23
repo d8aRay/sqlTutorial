@@ -358,143 +358,145 @@ CREATE TABLE `sql_tutorial.campaign_sales` (
     sales INTEGER
 );
 
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_1',6135794);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_2',3693298);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_3',5785009);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_4',1621997);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_5',737696);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_6',3666953);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_7',5307594);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_8',627264);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_9',2248172);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_10',8755807);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_11',5544914);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_12',7069856);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_13',1);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_14',8176548);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_15',2914264);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_16',1657512);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_17',6982907);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_18',5070378);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_19',2023126);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_20',8015943);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_21',8618125);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_22',6533320);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_23',3979499);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_24',8733654);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_25',8005243);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_26',1138345);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_27',1839748);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_28',4583311);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_29',1386767);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_30',1940291);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_31',3202183);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_32',2788167);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_33',3662414);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_34',1843516);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_35',1450714);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_36',2309971);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_37',8115370);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_38',38440);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_39',3571557);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_40',5291057);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_41',4986463);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_42',6085001);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_43',4002105);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_44',6250579);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_45',6912485);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_46',3991569);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_47',5374444);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_48',8483578);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_49',2851395);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_50',7814617);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_51',6075530);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_52',4866366);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_53',4879803);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_54',4887456);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_55',3261872);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_56',5932900);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_57',167079);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_58',4775595);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_59',3338649);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_60',7654181);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_61',5505661);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_62',7451810);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_63',5941492);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_64',2826341);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_65',5008509);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_66',2985732);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_67',4143744);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_68',6352984);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_69',6972441);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_70',1250815);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_71',6952822);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_72',8993447);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_73',1449954);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_74',4765767);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_75',3156388);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_76',3341075);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_77',8772368);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_78',5808041);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_79', NULL);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_80',8232344);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_81',1894187);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_82',7123556);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_83',6363770);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_84',4346236);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_85',1087338);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_86',6276258);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_87',5311496);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_88',2425492);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_89',2061571);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_90',4771855);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_91',6476319);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_92',4921961);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_93',1769787);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_94',149739);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_95',4836623);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_96',2152555);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_97',736938);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_98',5313829);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_99',2217243);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_100',7042383);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_101',5424683);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_102',4761472);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_103',1260997);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_104',8685532);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_105',3686230);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_106',7193941);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_107',5334727);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_108',385807);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_109',6239520);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_110',5977909);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_111',6296520);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_112',3742965);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_113',7435501);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_114',6033738);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_115',5727539);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_116',4909618);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_117',6853143);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_118',989118);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_119',314883);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_120',5359789);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_121',5413971);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_122',3855534);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_123',561181);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_124',4382134);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_125',776292);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_126',3060213);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_127',3892098);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_128',6039222);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_129',6742886);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_130',5397711);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_131',2534730);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_132',8518789);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_133',1295859);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_134',4352899);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_135',6247843);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_136',643729);
-INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES ('Campaign_137',7658470);
+INSERT INTO `sql_tutorial.campaign_sales`(campaign_id, sales) VALUES 
+  ('Campaign_1',6135794)
+, ('Campaign_2',3693298)
+, ('Campaign_3',5785009)
+, ('Campaign_4',1621997)
+, ('Campaign_5',737696)
+, ('Campaign_6',3666953)
+, ('Campaign_7',5307594)
+, ('Campaign_8',627264)
+, ('Campaign_9',2248172)
+, ('Campaign_10',8755807)
+, ('Campaign_11',5544914)
+, ('Campaign_12',7069856)
+, ('Campaign_13',1)
+, ('Campaign_14',8176548)
+, ('Campaign_15',2914264)
+, ('Campaign_16',1657512)
+, ('Campaign_17',6982907)
+, ('Campaign_18',5070378)
+, ('Campaign_19',2023126)
+, ('Campaign_20',8015943)
+, ('Campaign_21',8618125)
+, ('Campaign_22',6533320)
+, ('Campaign_23',3979499)
+, ('Campaign_24',8733654)
+, ('Campaign_25',8005243)
+, ('Campaign_26',1138345)
+, ('Campaign_27',1839748)
+, ('Campaign_28',4583311)
+, ('Campaign_29',1386767)
+, ('Campaign_30',1940291)
+, ('Campaign_31',3202183)
+, ('Campaign_32',2788167)
+, ('Campaign_33',3662414)
+, ('Campaign_34',1843516)
+, ('Campaign_35',1450714)
+, ('Campaign_36',2309971)
+, ('Campaign_37',8115370)
+, ('Campaign_38',38440)
+, ('Campaign_39',3571557)
+, ('Campaign_40',5291057)
+, ('Campaign_41',4986463)
+, ('Campaign_42',6085001)
+, ('Campaign_43',4002105)
+, ('Campaign_44',6250579)
+, ('Campaign_45',6912485)
+, ('Campaign_46',3991569)
+, ('Campaign_47',5374444)
+, ('Campaign_48',8483578)
+, ('Campaign_49',2851395)
+, ('Campaign_50',7814617)
+, ('Campaign_51',6075530)
+, ('Campaign_52',4866366)
+, ('Campaign_53',4879803)
+, ('Campaign_54',4887456)
+, ('Campaign_55',3261872)
+, ('Campaign_56',5932900)
+, ('Campaign_57',167079)
+, ('Campaign_58',4775595)
+, ('Campaign_59',3338649)
+, ('Campaign_60',7654181)
+, ('Campaign_61',5505661)
+, ('Campaign_62',7451810)
+, ('Campaign_63',5941492)
+, ('Campaign_64',2826341)
+, ('Campaign_65',5008509)
+, ('Campaign_66',2985732)
+, ('Campaign_67',4143744)
+, ('Campaign_68',6352984)
+, ('Campaign_69',6972441)
+, ('Campaign_70',1250815)
+, ('Campaign_71',6952822)
+, ('Campaign_72',8993447)
+, ('Campaign_73',1449954)
+, ('Campaign_74',4765767)
+, ('Campaign_75',3156388)
+, ('Campaign_76',3341075)
+, ('Campaign_77',8772368)
+, ('Campaign_78',5808041)
+, ('Campaign_79', NULL)
+, ('Campaign_80',8232344)
+, ('Campaign_81',1894187)
+, ('Campaign_82',7123556)
+, ('Campaign_83',6363770)
+, ('Campaign_84',4346236)
+, ('Campaign_85',1087338)
+, ('Campaign_86',6276258)
+, ('Campaign_87',5311496)
+, ('Campaign_88',2425492)
+, ('Campaign_89',2061571)
+, ('Campaign_90',4771855)
+, ('Campaign_91',6476319)
+, ('Campaign_92',4921961)
+, ('Campaign_93',1769787)
+, ('Campaign_94',149739)
+, ('Campaign_95',4836623)
+, ('Campaign_96',2152555)
+, ('Campaign_97',736938)
+, ('Campaign_98',5313829)
+, ('Campaign_99',2217243)
+, ('Campaign_100',7042383)
+, ('Campaign_101',5424683)
+, ('Campaign_102',4761472)
+, ('Campaign_103',1260997)
+, ('Campaign_104',8685532)
+, ('Campaign_105',3686230)
+, ('Campaign_106',7193941)
+, ('Campaign_107',5334727)
+, ('Campaign_108',385807)
+, ('Campaign_109',6239520)
+, ('Campaign_110',5977909)
+, ('Campaign_111',6296520)
+, ('Campaign_112',3742965)
+, ('Campaign_113',7435501)
+, ('Campaign_114',6033738)
+, ('Campaign_115',5727539)
+, ('Campaign_116',4909618)
+, ('Campaign_117',6853143)
+, ('Campaign_118',989118)
+, ('Campaign_119',314883)
+, ('Campaign_120',5359789)
+, ('Campaign_121',5413971)
+, ('Campaign_122',3855534)
+, ('Campaign_123',561181)
+, ('Campaign_124',4382134)
+, ('Campaign_125',776292)
+, ('Campaign_126',3060213)
+, ('Campaign_127',3892098)
+, ('Campaign_128',6039222)
+, ('Campaign_129',6742886)
+, ('Campaign_130',5397711)
+, ('Campaign_131',2534730)
+, ('Campaign_132',8518789)
+, ('Campaign_133',1295859)
+, ('Campaign_134',4352899)
+, ('Campaign_135',6247843)
+, ('Campaign_136',643729)
+, ('Campaign_137',7658470)
+;
 
 CREATE TABLE `sql_tutorial.user_purchases` (
 	user_id STRING(10) not null,
