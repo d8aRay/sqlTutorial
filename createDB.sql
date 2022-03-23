@@ -3,10 +3,12 @@ CREATE TABLE `sql_tutorial.regions` (
 	region_name STRING(25)
 );
 
-INSERT INTO `sql_tutorial.regions`(region_id,region_name) VALUES (1,'Europe');
-INSERT INTO `sql_tutorial.regions`(region_id,region_name) VALUES (2,'Americas');
-INSERT INTO `sql_tutorial.regions`(region_id,region_name) VALUES (3,'Asia');
-INSERT INTO `sql_tutorial.regions`(region_id,region_name) VALUES (4,'Middle East and Africa');
+INSERT INTO `sql_tutorial.regions`(region_id,region_name) VALUES  
+  (1,'Europe')
+, (2,'Americas')
+, (3,'Asia')
+, (4,'Middle East and Africa')
+;
 
 CREATE TABLE `sql_tutorial.countries` (
 	country_id STRING(2) NOT NULL,
